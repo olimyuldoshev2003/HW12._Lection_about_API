@@ -173,7 +173,5 @@ async function logMovies() {
 }
 ```
 
-2. Library axios()
-
-We can use library axios from is its website, connect it to our project and use it. The library axios is so easy than fetch method.
+**Library axios()**. We can use library axios from is its website, connect it to our project and use it. The library axios is so easy than fetch method.
 
